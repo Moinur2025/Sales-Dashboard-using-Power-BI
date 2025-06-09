@@ -63,6 +63,8 @@ Applying consistent formatting and layout for storytelling
 
 Building user-friendly and visually engaging reports
 
+----
+
 📁 Dataset
 --
 The dataset includes fields such as:
