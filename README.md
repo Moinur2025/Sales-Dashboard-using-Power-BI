@@ -1,4 +1,4 @@
-<img width="343" alt="image" src="https://github.com/user-attachments/assets/8678ed8c-1ace-478d-8e7f-22e367ed4ba4" /># Sales Dashboard using Power BI
+**Sales Dashboard using Power BI**
 <img width="343" alt="image" src="https://github.com/user-attachments/assets/b5dc67e9-f863-4d11-b03a-f72f68dd3f94" />
 
 **📊 Project Overview**
