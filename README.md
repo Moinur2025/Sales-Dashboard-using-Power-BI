@@ -21,18 +21,21 @@ A donut chart highlights the top five products with the highest profit margins.
 📌 KPIs
 Total Profit: 283K
 Total Sales: 2M
+
 💡 Skills Demonstrated
 🔧 Excel
 Data cleaning and transformation
 Use of functions like VLOOKUP, IF, TEXT, SUMIF, and PivotTables
 Filtering, sorting, and deduplication
 Structuring data for Power BI import
+
 📊 Power BI
 Data modeling and relationship building
 Creating KPI cards, map visuals, line charts, bar charts, and donut charts
 Designing interactive dashboards with slicers and filters
 Applying consistent formatting and layout for storytelling
 Building user-friendly and visually engaging reports
+
 📁 Dataset
 The dataset includes fields such as:
 
